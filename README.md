@@ -15,4 +15,4 @@ ionic serve
 install @angular/cli? Yes
 
 ************************************************************************************
-A webpage will be open: http://localhost:8100/home
+After installs, an webpage will be opened at: http://localhost:8100/home
