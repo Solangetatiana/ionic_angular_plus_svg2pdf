@@ -28,7 +28,7 @@ public download() {
 
 public download2() {
 
-      var svgElement = document.getElementById('svg');
+      var svgElement = document.getElementById('area_svg');
       var width = 300;
       var height = 200;
 
